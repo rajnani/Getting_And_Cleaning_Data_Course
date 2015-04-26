@@ -10,6 +10,7 @@ a file tidy_data_by_subject_activityId.txt in the working directory.
 
 The program will also show the output in the console
 
+<pre><code>
 > runanalysis()
 run_analysis:  Loading test data.. 
 run_analysis:  Loading train data.. 
@@ -22,5 +23,5 @@ run_analysis:  Create complete data with appropriate column names and activity l
 run_analysis:  Get the mean and std columns.. 
 run_analysis:  Create clean data set with avg for each variable by activity and subject.. 
 > 
-
+</code></pre>
 
